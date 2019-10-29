@@ -1,5 +1,5 @@
 # 6tisch-adaptive-mcs
-An extended 6TiSCH simulator for adaptive MCS TSCH networks.
+An extended 6TiSCH simulator for slot bonding with adaptive MCSs in TSCH networks.
 
 1) To let the simulator generate a topoogy based on experiment input parameters file:
 
