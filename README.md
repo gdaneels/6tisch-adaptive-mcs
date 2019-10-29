@@ -15,7 +15,7 @@ An extended 6TiSCH simulator for slot bonding with adaptive MCSs in TSCH network
 
 The output of the simulation can be found in:
 - bin/SimData/output_cpu0.dat
-- bin/SimData/consumption.json
-- bin/SimData/ilp_solution.json
+- bin/consumption.json
+- bin/ilp_solution.json
 
 
